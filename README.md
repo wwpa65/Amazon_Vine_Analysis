@@ -16,27 +16,61 @@ Programming Tools:
 ## Results:
 
 There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
-Deliverable 3: A Written Report on the Analysis (20 points)
+Deliverable 3: A Written Report on the Analysis (20 points)\
 
-Deliverable 3 Instructions
 
-For this part of the Challenge, you’ll write a report that summarizes the analysis you performed in Deliverable 2.
-The report should contain the following:
-Overview of the analysis: Explain the purpose of this analysis.
+
+![watch-customers](/images/watch-customers.png)
+
+![watch-products](/images/watch-products.png)
+
+![watch-reviews](/images/watch-reviews.png)
+
+![watch-vine](/images/watch-vine.png)
+
+![pgSQL-customers](/images/pgSQL-customers.png)
+
+![pgSQL-products](/images/pgSQL-products.png)
+
+![pgSQL-review-id](/images/pgSQL-review-id.png)
+
+![pgSQL-vine,png](/images/pgSQL-vine,png.png)
+
+![watch-vine-recreated](/images/watch-vine-recreated.png)
+
+![total_votes_over20](/images/total_votes_over20.png)
+
+![helpful_votes_over_50perct](/images/helpful_votes_over_50perct.png)
+
+![watches-vine-paid](/images/watches-vine-paid.png)
+
+![watches-vine-paid-describe](/images/watches-vine-paid-describe.png)
+
+![watches-vine-unpaid](/images/watches-vine-unpaid.png)
+
+![watches-vine-unpaid-describe](/images/watches-vine-unpaid-describe.png)
+
+![vine-paid-counts](/images/vine-paid-counts.png)
+
+![vine-unpaid-counts](/images/vine-unpaid-counts.png)
+
+
 Results: Using bulleted lists and images of DataFrames as support, address the following questions:
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
-Deliverable 3 Requirements
+**How many Vine reviews and non-Vine reviews were there?**
+- There were 47 vine reviews and 8362 non-Vine reviews
 
-Structure, Organization, and Formatting (6 points)
+**How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
+- There were 15 Vine reviews
+- There were 4332 non-Vine reviews
 
-The written analysis has the following structure, organization, and formatting:
-There is a title, and there are multiple sections (2 pt)
-Each section has a heading and subheading (2 pt)
-Links to images are working, and code is formatted and displayed correctly (2 pt).
-Analysis (14 points)
+**What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
+- 31.9% of Vine reviews were 5 stars
+- 51.8% of non-Vine reviews were 5 stars
+
+## Summary: 
+In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+
+This analysis showed that there was no bias towards favorable reviews by the paid Vine program. 
 
 
 Summary:
