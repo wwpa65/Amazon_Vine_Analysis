@@ -112,7 +112,7 @@ Vine Reviews
 Non-Vine Reviews
 - Total votes for 5 stars = 216,295
 - Total number of votes = 394,223
-- % 5-Sta Non-Vine votes = 54.9%
+- % 5-Star Non-Vine votes = 54.9%
 
 This analysis is also in agreement with the previous analysis demonstrating that there is no positivity bias in the Vin program.
 
