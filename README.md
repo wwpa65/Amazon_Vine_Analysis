@@ -76,3 +76,14 @@ This analysis showed that there was no bias towards favorable reviews by the pai
 Summary:
 The summary states whether or not there is bias, and the results support this statement (2 pt)
 An additional analysis is recommended to support the statement (2 pt)
+
+Vine Reviews
+Total votes for 5 stars = 570
+Total number of votes = 2252
+% 5-Star Vine votes = 25.35%
+
+Non-Vine Reviews
+Total votes for 5 stars = 216,295
+Total number of votes = 394,223
+% 5-Sta Non-Vine votes = 54.9%
+
