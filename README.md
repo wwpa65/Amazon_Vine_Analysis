@@ -87,3 +87,11 @@ Total votes for 5 stars = 216,295
 Total number of votes = 394,223
 % 5-Sta Non-Vine votes = 54.9%
 
+![5star-total-non-vine-votes](/images/5star-total-non-vine-votes.png)
+
+![total-vine-votes](/images/total-vine-votes.png)
+
+![5star-total-vine-votes](/images/5star-total-vine-votes.png)
+
+![total-vine-votes](/images/total-vine-votes.png)
+
